@@ -6,6 +6,7 @@ app stores and in-app settings have a stable link.
 | App | Privacy policy | Terms |
 |-----|----------------|-------|
 | Temp Mail / TempMails.online | [tempmails/privacy-policy.html](https://irfanullahkhan12.github.io/privacypolicylinks/tempmails/privacy-policy.html) | [tempmails/terms.html](https://irfanullahkhan12.github.io/privacypolicylinks/tempmails/terms.html) |
+| Totomoto | [totomoto/privacy-policy.html](https://irfanullahkhan12.github.io/privacypolicylinks/totomoto/privacy-policy.html) | — |
 
 ## Publishing
 
